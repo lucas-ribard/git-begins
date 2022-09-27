@@ -1,0 +1,5 @@
+git clone git@github.com:lucas-ribard/git-begins.git
+
+git commit -m "raison d'ajout de fichier"
+git branch -M "nom branche"
+git push -u origin "nom branche"
