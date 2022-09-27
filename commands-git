@@ -8,3 +8,9 @@ git push -u origin <nom branche>
 
 commande : Pull
 git pull <origin/adresse>
+
+Commande : branch
+git branch -m <nom branche>
+
+changer de branche:
+git chekout <nom branche>
